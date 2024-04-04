@@ -28,4 +28,10 @@ node app.js
 cd Views
 git pull
 ```
+# Fitur
+
+- Counter attack (sp4m) API telegram
+- Bikin list API telegram yang mau dijadikan target dalam file `.txt`
+- Send request ke multiple API secara bersamaan.
+
 ## author : WILDEV
