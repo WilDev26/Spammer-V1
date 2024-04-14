@@ -25,7 +25,7 @@ node app.js
 ```
 ## UPDATE SCRIPT
 ```bash
-cd Views
+cd Spammer-V1
 git pull
 ```
 # Fitur
