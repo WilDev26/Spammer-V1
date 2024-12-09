@@ -13,7 +13,7 @@ pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install nodejs
 pkg install nodejs-lts
-git clone https://github.com/Bagassamuji/Spammer-V1.git
+https://github.com/WilDev26/Spammer-V1.git
 ```
 ## UNTUK INSTALL  MODUL FILE SALIN CODE & COPY DI TERMUX LALU ENTER
 ```bash
